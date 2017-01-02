@@ -1,5 +1,5 @@
 {
-  "name": "express-restfunc",
+  "name": "express-restfunc-test",
   "version": "1.0.0",
   "description": "An Restfunc implementation to Express.js",
   "main": "index.js",
